@@ -21,7 +21,7 @@ ask　⋮　it　⋮　he　⋮　she
 
 <!-- links -->
 <p align="center">
-<a href="https://hhyp3rlas3r.straw.page">strawpage</a> 　　‿　　 <a href="https://en.pronouns.page/HYP3RLAS3R">prnspg</a>
+<a href="https://hhyp3rlas3r.straw.page">strawpage</a> 　　‿　　 <a href="https://en.pronouns.page/@HYP3RLAS3R">prnspg</a>
 </p>
 
 <!-- bottom banner -->
