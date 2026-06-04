@@ -14,6 +14,16 @@
 $\color{blue}\large{\textbf{REVERIE, HYPER(LASER), or SYMON}}$
 </p>
 
+<!-- center text 2 -->
+<p align="center">
+ask　⋮　it　⋮　he　⋮　she
+</p>
+
+<!-- links -->
+<p align="center">
+<a href="https://hhyp3rlas3r.straw.page">strawpage</a> 　　‿　　 <a href="https://en.pronouns.page/HYP3RLAS3R">prnspg</a>
+</p>
+
 <!-- bottom banner -->
 <p align="center">
 <img width="101" height="57" alt="tumblr_7992f2f9787465853705c519b670f924_ea6f71ec_250" src="https://github.com/user-attachments/assets/9bc824f0-c019-47dd-be3a-69ef9ba9a8f3" /> 
